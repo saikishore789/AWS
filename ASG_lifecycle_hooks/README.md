@@ -7,7 +7,7 @@ For example, during the scale-out event of your ASG, you want to make sure that 
 
 Lifecycle Hooks give you greater control of your EC2 during the launch and terminate events. The following diagram shows the transitions between the EC2 instance states with lifecycle hooks.
 
-![alt text](image.png)
+![alt text](https://td-mainsite-cdn.tutorialsdojo.com/wp-content/uploads/2020/05/Image-1-1.png)
 
 1. The Auto Scaling group responds to a scale-out event and provisions a new EC2 instance. 
 
